@@ -37,17 +37,18 @@ namespace task_1
             Console.WriteLine(firstName + " " + lastName + " " + birth);
 
             int[] arr = { 1,1, 2, 3, 4, 5, 6, 7, 8, 9};
+            Console.WriteLine("Elements in array are:  ");
+            
             foreach (var a in arr)
             {
-                Console.WriteLine(a);
-
+                Console.Write(a);
             }
             int sum = 0;
             foreach (var a in arr)
             {
                 sum += a;
             }
-            Console.WriteLine("Sum of all elements stored in the array is: "+sum);
+            Console.WriteLine("\nSum of all elements stored in the array is: "+sum);
         }
     }
 }
