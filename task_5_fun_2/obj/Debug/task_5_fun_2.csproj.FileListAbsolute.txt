@@ -1,0 +1,7 @@
+D:\Orange\C#\console\orange_Chsarp\task_5_fun_2\bin\Debug\task_5_fun_2.exe.config
+D:\Orange\C#\console\orange_Chsarp\task_5_fun_2\bin\Debug\task_5_fun_2.exe
+D:\Orange\C#\console\orange_Chsarp\task_5_fun_2\bin\Debug\task_5_fun_2.pdb
+D:\Orange\C#\console\orange_Chsarp\task_5_fun_2\obj\Debug\task_5_fun_2.csproj.AssemblyReference.cache
+D:\Orange\C#\console\orange_Chsarp\task_5_fun_2\obj\Debug\task_5_fun_2.csproj.CoreCompileInputs.cache
+D:\Orange\C#\console\orange_Chsarp\task_5_fun_2\obj\Debug\task_5_fun_2.exe
+D:\Orange\C#\console\orange_Chsarp\task_5_fun_2\obj\Debug\task_5_fun_2.pdb
